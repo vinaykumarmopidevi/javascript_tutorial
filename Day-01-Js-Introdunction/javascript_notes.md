@@ -4,6 +4,8 @@ JavaScript is a programming language commonly used for web development. It allow
 
 ## javascript asynchronous programming
 
+![javascript asynchronous programming](synchronous-vs-asynchronous-javascript-thumbnail.webp)
+
 Asynchronous programming in JavaScript allows tasks to be executed concurrently without blocking the main thread. This is crucial for handling operations that take time, such as network requests or reading/writing files, without freezing the user interface. There are several ways to work with asynchronous code in JavaScript:
 
 1. **Callbacks**: Callbacks are functions passed as arguments to another function, to be executed later when the asynchronous operation is complete. Callbacks were one of the earliest ways to handle asynchronous code in JavaScript.
@@ -115,6 +117,6 @@ There are several types of JavaScript interpreters:
 
 JavaScript interpreters play a crucial role in executing JavaScript code across various platforms and environments, enabling the development of dynamic and interactive web applications, server-side applications, and more.
 
-## reference
+## Reference
 
  <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
