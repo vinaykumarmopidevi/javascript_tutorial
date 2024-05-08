@@ -1,4 +1,4 @@
-# what is javascript?
+# What is javascript?
 
 JavaScript is a programming language commonly used for web development. It allows developers to add interactivity, dynamic content, and functionality to websites. JavaScript is often used alongside HTML and CSS to create interactive and responsive web pages. It can be executed in web browsers as well as on server-side environments using platforms like Node.js. JavaScript is known for its versatility, as it can be used for front-end development, back-end development, and even mobile app development using frameworks like React Native.
 
